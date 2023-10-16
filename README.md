@@ -10,7 +10,7 @@ How To Install -
 Change the database according to you,This was a part of my dbms mini project with a social cause
  
  
-contact me in case you didnt get to use this project linkedin:https://www.linkedin.com/in/m-disha-shetty-30000b212
+contact me in case you didnt get to use this project linkedin:https://www.linkedin.com/in/m-disha-shetty
 
 The project with screenshots
 ![image](https://user-images.githubusercontent.com/83459637/215344864-69fdd930-4dd7-4043-84db-06f12f5b1163.png)
